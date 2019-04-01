@@ -1,0 +1,4 @@
+
+logging:
+  path: ./logs #配置日志生成路径
+  level: info
